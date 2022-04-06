@@ -1,0 +1,12 @@
+{
+    "name": "slots-web3",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "install": "cd ./slots-app && yarn && cd ../web-2-backend-analytics && yarn && cd ../web-3-backend-slots-blockchain && yarn",
+        "migrate": "cd ./web-3-backend-slots-blockchain && truffle migrate",
+        "dev:app": "cd ./slots-app && yarn start"
+    }
+  }
+  
