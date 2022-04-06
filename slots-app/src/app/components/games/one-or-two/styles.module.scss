@@ -1,0 +1,25 @@
+.main {
+  width: 50%;
+  margin-bottom: 5%;
+
+  .label {
+    font-size: 4rem;
+    text-align: center;
+  }
+
+  .numbers {
+    display: flex;
+    justify-content: space-around;
+
+    .item {
+      font-size: 8rem;
+    }
+
+    .lose {
+      color: rgb(255, 7, 58);
+    }
+    .win {
+      color: #11998e;
+    }
+  }
+}

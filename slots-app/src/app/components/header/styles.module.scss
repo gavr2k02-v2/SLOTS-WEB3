@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  background-color: rgb(37, 37, 38);
+  padding: 1% 2%;
+
+  .item {
+    margin-right: 5%;
+  }
+
+  .label {
+    color: #11998e;
+  }
+
+  .address {
+    font-size: 1.2rem;
+    color: rgb(127, 145, 164);
+  }
+
+  .coins {
+    font-size: 1.2rem;
+    color: white;
+  }
+}
