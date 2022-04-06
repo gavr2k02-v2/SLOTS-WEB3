@@ -21,4 +21,4 @@ LOCAL_PROVIDER="http://localhost:{THE PORT WHERE RUNNIG BLOCKCHAIN NETWORK (7545
 You can biy coins and spin
 <img width="1440" alt="Снимок экрана 2022-04-06 в 14 57 39" src="https://user-images.githubusercontent.com/102209956/162048624-ab85affd-76df-49d9-87ab-9704b69faa23.png">
 
-The project have problem witch random in blockchain, but it need for familiarization
+The project has a problem with random in the blockchain, but this is necessary for familiarization
